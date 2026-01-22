@@ -1,0 +1,14 @@
+{
+  "name": "@d3/calendar/2",
+  "main": "8994272dc06e0549@1169.js",
+  "version": "1169.0.0",
+  "homepage": "https://observablehq.com/@d3/calendar/2",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

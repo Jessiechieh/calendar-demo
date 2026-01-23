@@ -31,3 +31,12 @@ const runtime = new Runtime();
 const main = runtime.module(define);
 main.value("foo").then(value => console.log(value));
 ~~~
+
+## GitHub Pages
+
+This repo ships with a GitHub Pages workflow that publishes the repository
+contents as a static site. To deploy:
+
+1. Push to the `main` branch.
+2. In GitHub, open **Settings → Pages** and set the source to **GitHub Actions**.
+3. The workflow will publish `index.html` to your Pages URL.

@@ -3,7 +3,7 @@
 https://observablehq.com/@d3/calendar/2@1169
 
 View this notebook in your browser by running a web server in this folder. For
-example:
+example：
 
 ~~~sh
 npx http-server
